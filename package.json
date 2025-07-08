@@ -51,5 +51,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duh130/lista-de-contatos-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duh130/lista-de-contatos-react/issues"
+  },
+  "homepage": "https://github.com/Duh130/lista-de-contatos-react#readme"
 }
